@@ -1,0 +1,6 @@
+*.vb linguist-detectable=true
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.vb text eol=crlf
+*.bas text eol=crlf
