@@ -2,6 +2,8 @@
 
 > NOTE: If you download this code as zip. You might need to unblock the files. To do that you can right click on a file (for example frmAbout.resX) and select unblock or you can open a `powershell` command line, go to folder where you downloaded these files and execute `Get-ChildItem . | Unblock-File`
 
+> NOTE: this demo uses SQLite. You might need to install the [SQLite ODBC Driver](http://www.ch-werner.de/sqliteodbc/)
+
 ![SKS](/assets/SKS.PNG)
 
 ## VB6 to WinForms VB.NET
